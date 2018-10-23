@@ -1,6 +1,8 @@
 # BrickBreakoutGame
 A simple 2D game developed with pure JavaScript. 
 
+![Game IMG](http://shrani.si/f/V/FX/2zPPB03F/brickbreakoutgame.png)
+
 ###### GAME RULES
 You have 3 lifes. Each time ball touches bottom canvas, you lose one life. Each time you bounce the ball from your paddle, it slightly increases the movement speed of the ball.
 
